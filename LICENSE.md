@@ -31,3 +31,15 @@ Files:
 - [wallpapers/1080x2160/shift_wallpaper_32.jpg](wallpapers/1080x2160/shift_wallpaper_32.jpg)
 
 License: [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+Author: SHIFT GmbH
+
+Files:
+- [wallpapers/1920x1080/shift-wallpaper-wave.jpg](wallpapers/1920x1080/shift-wallpaper-wave.jpg)
+- [wallpapers/3840x2160/shift-wallpaper-pattern.jpg](wallpapers/3840x2160/shift-wallpaper-pattern.jpg)
+- [wallpapers/3840x2160/shift-wallpaper-stone.jpg](wallpapers/3840x2160/shift-wallpaper-stone.jpg)
+- [wallpapers/3840x2160/shift-wallpaper-wood.jpg](wallpapers/3840x2160/shift-wallpaper-wood.jpg)
+
+License: [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
