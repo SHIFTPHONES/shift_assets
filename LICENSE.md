@@ -55,6 +55,8 @@ Files:
 - [wallpapers/1080x2400/shift_wallpaper_29.jpg](wallpapers/1080x2400/shift_wallpaper_29.jpg)
 - [wallpapers/1080x2400/shift_wallpaper_30.jpg](wallpapers/1080x2400/shift_wallpaper_30.jpg)
 - [wallpapers/1080x2400/shift_wallpaper_32.jpg](wallpapers/1080x2400/shift_wallpaper_32.jpg)
+- [wallpapers/1080x2400/shift_wallpaper_33.jpg](wallpapers/1080x2400/shift_wallpaper_33.jpg)
+- [wallpapers/1080x2400/shift_wallpaper_34.jpg](wallpapers/1080x2400/shift_wallpaper_34.jpg)
 
 License: [CC-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
